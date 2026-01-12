@@ -14,7 +14,7 @@ Com o terminal ainda aberto, faça os seguintes comandos:
 
 ```bash
 git init
-git clone
+git clone https://github.com/maclararose/Exercicios_Js_Intro.git
 cd Exercicios_Js_Intro
 ```
 
