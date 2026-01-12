@@ -1,4 +1,4 @@
-# Exercícios de JavaScritp - IFB
+# Exercícios de JavaScript - IFB
 
 O Objetivo desse repositório é o registro das minhas atividades como aluna da disciplina de Programação para Internet.
 Curso de TSI do Instituto Federal de Brasília.
